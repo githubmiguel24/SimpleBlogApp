@@ -1,5 +1,4 @@
-﻿@model IEnumerable<YourProjectName.Models.Post>
-
+﻿@model IEnumerable<BlogPostApp.Post>
 @{
     ViewData["Title"] = "Blog Index";
 }
@@ -17,7 +16,7 @@
                         <h5 class="card-title">@post.Title</h5>
                         <h6 class="card-subtitle mb-2 text-muted">By: @post.Author</h6>
                         <p class="card-text">@post.Content.Substring(0, Math.Min(post.Content.Length, 100))...</p>
-            
+
                         <a asp-action="Details" asp-route-id="@post.Id" class="btn btn-primary">
                             Read More
                         </a>

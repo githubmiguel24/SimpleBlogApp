@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using SimpleBlogApp.Models; // <-- Change to your project's namespace
 using System.Collections.Generic;
 using System.Linq;
+using BlogPostApp;
 
 namespace SimpleBlogApp.Controllers // <-- Change to your project's namespace
 {
