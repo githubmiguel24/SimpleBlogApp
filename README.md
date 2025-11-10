@@ -1,2 +1,0 @@
-# Models
-APPDEV MVC Assessment

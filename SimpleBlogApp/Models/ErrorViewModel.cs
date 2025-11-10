@@ -1,4 +1,4 @@
-namespace Models.Models;
+namespace SimpleBlogApp.Models;
 
 public class ErrorViewModel
 {

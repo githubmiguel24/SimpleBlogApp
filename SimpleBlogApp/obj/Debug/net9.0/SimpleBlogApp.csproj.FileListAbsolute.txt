@@ -1,0 +1,9 @@
+c:\Users\Miguel\Desktop\Third Year -1st SEM\AppDev and Emerging Tech\Models\SimpleBlogApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+c:\Users\Miguel\Desktop\Third Year -1st SEM\AppDev and Emerging Tech\Models\SimpleBlogApp\obj\Debug\net9.0\SimpleBlogApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Miguel\Desktop\Third Year -1st SEM\AppDev and Emerging Tech\Models\SimpleBlogApp\obj\Debug\net9.0\SimpleBlogApp.AssemblyInfoInputs.cache
+c:\Users\Miguel\Desktop\Third Year -1st SEM\AppDev and Emerging Tech\Models\SimpleBlogApp\obj\Debug\net9.0\SimpleBlogApp.AssemblyInfo.cs
+c:\Users\Miguel\Desktop\Third Year -1st SEM\AppDev and Emerging Tech\Models\SimpleBlogApp\obj\Debug\net9.0\SimpleBlogApp.csproj.CoreCompileInputs.cache
+c:\Users\Miguel\Desktop\Third Year -1st SEM\AppDev and Emerging Tech\Models\SimpleBlogApp\obj\Debug\net9.0\SimpleBlogApp.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Miguel\Desktop\Third Year -1st SEM\AppDev and Emerging Tech\Models\SimpleBlogApp\obj\Debug\net9.0\SimpleBlogApp.RazorAssemblyInfo.cache
+c:\Users\Miguel\Desktop\Third Year -1st SEM\AppDev and Emerging Tech\Models\SimpleBlogApp\obj\Debug\net9.0\SimpleBlogApp.RazorAssemblyInfo.cs
+c:\Users\Miguel\Desktop\Third Year -1st SEM\AppDev and Emerging Tech\Models\SimpleBlogApp\obj\Debug\net9.0\SimpleBlogApp.sourcelink.json

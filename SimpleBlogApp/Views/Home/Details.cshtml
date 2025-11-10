@@ -1,0 +1,17 @@
+@model YourProjectName.Models.Post
+
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<h2>@Model.Title</h2>
+
+<h5 class="text-muted">By: @Model.Author</h5>
+<hr />
+
+<div class="mt-3">
+    <p>@Model.Content</p>
+</div>
+<hr />
+
+<a asp-action="Index">Back to Post List</a>
