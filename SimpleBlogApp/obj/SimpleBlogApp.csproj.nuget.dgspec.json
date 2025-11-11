@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miguel\\Desktop\\Third Year -1st SEM\\AppDev and Emerging Tech\\Models\\simpleblogapp\\SimpleBlogApp.csproj": {}
+    "C:\\Users\\Daanay\\Desktop\\assessment8\\SimpleBlogApp\\SimpleBlogApp\\SimpleBlogApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miguel\\Desktop\\Third Year -1st SEM\\AppDev and Emerging Tech\\Models\\simpleblogapp\\SimpleBlogApp.csproj": {
+    "C:\\Users\\Daanay\\Desktop\\assessment8\\SimpleBlogApp\\SimpleBlogApp\\SimpleBlogApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Third Year -1st SEM\\AppDev and Emerging Tech\\Models\\simpleblogapp\\SimpleBlogApp.csproj",
+        "projectUniqueName": "C:\\Users\\Daanay\\Desktop\\assessment8\\SimpleBlogApp\\SimpleBlogApp\\SimpleBlogApp.csproj",
         "projectName": "SimpleBlogApp",
-        "projectPath": "C:\\Users\\Miguel\\Desktop\\Third Year -1st SEM\\AppDev and Emerging Tech\\Models\\simpleblogapp\\SimpleBlogApp.csproj",
-        "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miguel\\Desktop\\Third Year -1st SEM\\AppDev and Emerging Tech\\Models\\simpleblogapp\\obj\\",
+        "projectPath": "C:\\Users\\Daanay\\Desktop\\assessment8\\SimpleBlogApp\\SimpleBlogApp\\SimpleBlogApp.csproj",
+        "packagesPath": "C:\\Users\\Daanay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daanay\\Desktop\\assessment8\\SimpleBlogApp\\SimpleBlogApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Daanay\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
